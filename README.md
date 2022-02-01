@@ -1,2 +1,2 @@
-# empty-http
-empty http website for reddit api 
+# empty-html
+empty html website for reddit api 
